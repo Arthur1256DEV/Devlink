@@ -1,6 +1,6 @@
 # DevLinks
 
-![preview](./github/cover.png)
+![preview](./.github/cover.png)
 
 > Trilha Discover
 
